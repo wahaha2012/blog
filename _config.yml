@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://invest.wxwdesign.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:wahaha2012/wahaha2012.github.io.git
+  repo: git@github.com:wahaha2012/wahaha2012.github.io.git
   branch: master
